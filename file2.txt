@@ -1,0 +1,2 @@
+What is syntax of adding file on git?
+ans is :   git add  <filename>
